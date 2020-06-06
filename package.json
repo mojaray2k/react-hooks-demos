@@ -20,13 +20,19 @@
   },
   "homepage": "https://github.com/mojaray2k/react-hooks-demos#readme",
   "dependencies": {
-    "next": "^9.4.4",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "@zeit/next-css": "^1.0.1",
+    "bootstrap": "^4.3.1",
+    "next": "^8.0.3",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "react-toastify": "^4.5.2"
   },
   "devDependencies": {
-    "eslint": "^7.2.0",
-    "eslint-plugin-react": "^7.20.0",
-    "react-hooks": "^1.0.1"
+    "eslint": "^5.16.0",
+    "eslint-plugin-react": "^7.12.4",
+    "eslint-plugin-react-hooks": "^1.5.0",
+    "prettier": "1.16.4",
+    "react-hooks": "^1.0.1",
+    "react-performance": "0.0.5"
   }
 }
